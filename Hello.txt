@@ -1,0 +1,7 @@
+public class Learning {
+    public static void main(String[] args) {
+        System.out.println("Hello!");
+        System.out.println("Priya");
+        System.out.println("Hi");
+    }
+}// output----> Hello priya Hi
